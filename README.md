@@ -1,2 +1,2 @@
-# mchl
+# MCHL
 Minecraft Hockey League Assets
